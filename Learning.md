@@ -23,4 +23,17 @@ vs code extension: Live server, prettier code formatter
 - atribute
 - element , content
 - Debugging
-8. Basic Tage,styling, Debugging
+- comment
+8. Headings, paragraph, Line_breaks , horizontal rule
+9. Semantic HTML vs Non-Semantic HTML
+- Semantic : header ,foter, main, form,tabile
+- Non-Semantic :div ,span
+
+10. Texting formating tags
+11. List 
+12. Link
+13. Tabile
+14. Form
+15. Deploy
+
+
