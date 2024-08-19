@@ -14,4 +14,13 @@
 - code Editor : VS CODE
 - Browser : Google chrome
 - Version control : Git an GitHub
-Basic struture of HTML
+vs code extension: Live server, prettier code formatter
+
+6. Basic struture of HTML
+- head ,body
+7. Basic Tage,styling, Debugging
+- teg? type of tegs
+- atribute
+- element , content
+- Debugging
+8. Basic Tage,styling, Debugging
