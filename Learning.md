@@ -31,7 +31,10 @@ vs code extension: Live server, prettier code formatter
 
 10. Texting formating tags
 11. List 
+- order list ,unorder list ,defination ,nested
 12. Link
+- absulut link vs relative link
+- a tag , atribute : href ,target ,title
 13. Tabile
 14. Form
 15. Deploy
