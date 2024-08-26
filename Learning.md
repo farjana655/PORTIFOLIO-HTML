@@ -39,4 +39,17 @@ vs code extension: Live server, prettier code formatter
 14. Form
 15. Deploy
 
+## Intermedite HTML 
+
+
+- Meta tag & SEO
+- Adding fornt icons and google
+- advanced table 
+- advance form
+- form data send to your email
+- multimedia 
+- html5 elenets  
+
+
+
 
